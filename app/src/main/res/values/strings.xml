@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Keyboard layout</string>
+    <string name="keyboard_layouts_label">ND\'s Keyboard</string>
+    <string name="keyboard_layout_english_gb_label">Anglish (UK)</string>
+</resources>

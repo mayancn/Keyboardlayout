@@ -1,0 +1,19 @@
+type OVERLAY
+
+key Q {
+    label:                              'Q'
+    base:                               'q'
+    shift, capslock:                    '"'
+}
+
+key W {
+    label:                              'W'
+    base:                               'w'
+    shift, capslock:                    '"'
+}
+
+key E {
+    label:                              'E'
+    base:                               'e'
+    shift, capslock:                    '"'
+}
