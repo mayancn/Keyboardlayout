@@ -19,5 +19,4 @@
                 android:resource="@xml/keyboard_layouts" />
         </receiver>
     </application>
-SS
 </manifest>
